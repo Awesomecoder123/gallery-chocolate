@@ -10,7 +10,7 @@
     "css",
     "js"
   ],
-  "author": "",
+  "author": "Lily Misra",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.13",
